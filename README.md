@@ -1,4 +1,4 @@
-[中文文档请点击这里](https://github.com/Plachtaa/VITS-fast-fine-tuning/blob/main/README_ZH.md)
+
 # VITS Fast Fine-tuning
 This repo will guide you to add your own character voices, or even your own voice, into existing VITS TTS model
 to make it able to do the following tasks in less than 1 hour:  
@@ -28,14 +28,14 @@ Chinese only：(No running huggingface spaces) Author: [Wwwwhy230825](https://gi
 
 
 ## Fine-tuning
-See [LOCAL.md](https://github.com/Plachtaa/VITS-fast-fine-tuning/blob/main/LOCAL.md) for local training guide.  
+See [LOCAL.md](https://github.com/AICommandant/fast-fine-tuning/blob/main/LOCAL.md) for local training guide.  
 Alternatively, you can perform fine-tuning on [Google Colab](https://colab.research.google.com/drive/1pn1xnFfdLK63gVXDwV4zCXfVeo8c-I-0?usp=sharing)
 
 
 ### How long does it take? 
 1. Install dependencies (3 min)
 2. Choose pretrained model to start. The detailed differences between them are described in [Colab Notebook](https://colab.research.google.com/drive/1pn1xnFfdLK63gVXDwV4zCXfVeo8c-I-0?usp=sharing)
-3. Upload the voice samples of the characters you wish to add，see [DATA.MD](https://github.com/Plachtaa/VITS-fast-fine-tuning/blob/main/DATA_EN.MD) for detailed uploading options.
+3. Upload the voice samples of the characters you wish to add，see [DATA.MD](https://github.com/AICommandant/fast-fine-tuning/blob/main/DATA_EN.MD) for detailed uploading options.
 4. Start fine-tuning. Time taken varies from 20 minutes ~ 2 hours, depending on the number of voices you uploaded.
 
 
@@ -96,4 +96,4 @@ Below I'll show only how to change the character.
 1. Follow [MoeGoe](https://github.com/CjangCjengh/MoeGoe) page instructions to install, configure path, and use.
 
 ## Looking for help?
-If you have any questions, please feel free to open an [issue](https://github.com/Plachtaa/VITS-fast-fine-tuning/issues/new) or join our [Discord](https://discord.gg/TcrjDFvm5A) server.
+If you have any questions, please feel free to open an [issue](https://github.com/AICommandant/fast-fine-tuning/issues/new) or join our [Discord](https://discord.gg/TcrjDFvm5A) server.
